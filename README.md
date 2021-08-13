@@ -18,12 +18,11 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pomin-163&label=Profile%20views&color=0e75b6&style=flat" alt="pomin-163" /> </p>
 
 
-- 🌱 I’m currently learning C++
-- 💬 Ask me about 
-- + Mail [1637766030@qq.com](1637766030@qq.com)
-- + Home[my homepage](www.pomin.xyz)
-- + CSDN [my csdn blog](https://blog.csdn.net/pomin_?spm=1000.2115.3001.5343)
-- + OSHWHub[my hardware](https://oshwhub.com/pomin)
+- 📕  I’m currently learning C++
+- 🎈  Mail [1637766030@qq.com](1637766030@qq.com)
+- 👓 Home[my homepage](https://www.pomin.xyz)
+- 📝 CSDN [my csdn blog](https://blog.csdn.net/pomin_?spm=1000.2115.3001.5343)
+- 💎 OSHWHub[my hardware](https://oshwhub.com/pomin)
 - 📫 How to reach me: qq [1637766030](https://qm.qq.com/cgi-bin/qm/qr?k=iqud2ciGF0S0bCW6Ev-svUY45MBsl0oe&noverify=0)
 
 <h3 align="left">Languages and Tools:</h3>
