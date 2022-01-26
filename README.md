@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 📕  I’m currently learning C++
 - 🎈  Ask me about mail [1637766030@qq.com](1637766030@qq.com)
-- 👓 Welcome to my homepage[my homepage](https://www.pomin.xyz)
+- 👓 Welcome to [my homepage](https://www.pomin.xyz)
 - 📝 CSDN blog [my csdn blog](https://blog.csdn.net/pomin_?spm=1000.2115.3001.5343)
 - 💎 OSHWHub [my hardware](https://oshwhub.com/pomin)
 - 📫 How to reach me: qq [1637766030](tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=1637766030)
