@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 武汉某大学在读的大三菜鸡
+### 武汉某大学在读
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pomin-163&label=Profile%20views&color=0e75b6&style=flat" alt="pomin-163" /> </p>
 
