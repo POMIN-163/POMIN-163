@@ -7,7 +7,6 @@
 </h3>
 
 <div>
-    <img width = "35%" align="right" alt="PIC" height="300px" src="pomin.png" />
     <div align="left"> 
         <h3> 👨🏻‍💻 About Me </h3>
 
