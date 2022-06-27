@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hey there! I'm pomin-163 👋 
+    Hey there! I'm pomin 👋 
 </h1>
 
 <h3 align="center">
