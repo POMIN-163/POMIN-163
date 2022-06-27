@@ -1,13 +1,13 @@
 <h1 align="center">
-    Hey there! I'm a college student studying in Wuhan, China 👋 
+    Hey there! I'm pomin-163 👋 
 </h1>
 
 <h3 align="center">
-    🚀 Embedded developers | Electronic Designer | Open Source ♥ | Open Source Hardware  🚀
+    🚀 Embedded developers | Electronic Designer | Open Source 🚀
 </h3>
 
 <div>
-    <img width = "50%" align="right" alt="PIC" height="350" src="https://github-readme-stats.vercel.app/api?username=pomin-163&show_icons=true&locale=en" />
+    <img width = "50%" align="right" alt="PIC" height="260" src="https://github-readme-stats.vercel.app/api?username=pomin-163&show_icons=true&locale=en" />
     <div align="left"> 
         <h3> 👨🏻‍💻 About Me </h3>
 
