@@ -14,7 +14,7 @@
 - 😀 &nbsp; I’m currently learning C++
 - 🌱 &nbsp; Welcome to [my homepage](https://www.pomin.top)
 - ✍️ &nbsp; OSHWHub [my hardware](https://oshwhub.com/pomin)
-- 🎓 &nbsp; Studying Electronic Information Engineering.
+- 🎓 &nbsp; Studying Electronic Information.
 - 💼 &nbsp; Ask me about mail [c1637766030@gmail.com](c1637766030@gmail.com)
 
     </div> 
