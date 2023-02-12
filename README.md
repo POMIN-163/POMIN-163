@@ -11,7 +11,6 @@
     <div align="left"> 
         <h3> 👨🏻‍💻 About Me </h3>
 
-- 😀 &nbsp; I’m currently learning C++
 - 🌱 &nbsp; Welcome to [my homepage](https://www.pomin.top)
 - ✍️ &nbsp; OSHWHub [my hardware](https://oshwhub.com/pomin)
 - 🎓 &nbsp; Studying Electronic Information.
